@@ -1,0 +1,28 @@
+{
+  "name": "practice-class-validator",
+  "version": "1.0.0",
+  "description": "class validator를 연습해본다.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^4.2.0",
+    "class-transformer": "^0.2.3",
+    "class-validator": "^0.12.2",
+    "reflect-metadata": "^0.1.13",
+    "typescript": "^3.8.3"
+  },
+  "devDependencies": {
+    "mocha": "^7.1.2",
+    "@types/mocha": "^7.0.2",
+    "@types/chai": "^4.2.11",
+    "ts-node": "^8.10.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
