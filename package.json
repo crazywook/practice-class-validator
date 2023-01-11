@@ -9,7 +9,7 @@
   "dependencies": {
     "chai": "^4.2.0",
     "class-transformer": "^0.2.3",
-    "class-validator": "^0.12.2",
+    "class-validator": "^0.14.0",
     "reflect-metadata": "^0.1.13",
     "typescript": "^3.8.3"
   },
